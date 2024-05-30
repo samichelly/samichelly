@@ -1,3 +1,4 @@
+👩‍🎓 Freshly graduated from 
 <p align="center">
     <a href="mailto:sami.chelly15@gmail.com">
 <!--         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="mail"/> -->
