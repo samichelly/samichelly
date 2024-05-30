@@ -1,10 +1,14 @@
-👩‍🎓 Freshly graduated from 
-<a href="mailto:sami.chelly15@gmail.com"></a>
+<h1 align="center">
+    <a href="https://github.com/hmignon">
+        <img src="github-header-image.png" alt="header"/>
+    </a>
+</h1>
 
 <p align="center">
-<!--         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="mail"/> -->
+    <a href="mailto:mignonln@gmail.com">
+        <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="mail"/>
     </a>
-<!--     <a href="https://discordapp.com/users/725712985372229695">
+    <a href="https://discordapp.com/users/725712985372229695">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
     </a>
     <a href="https://linkedin.com/in/hélène-mignon-9353a099">
@@ -12,8 +16,8 @@
     </a>
     <a href="https://github.com/hmignon">
         <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-    </a> -->
-<!-- </p> -->
+    </a>
+</p>
 
 👩‍🎓 Freshly graduated from [OpenClassrooms Python developer course](https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python)
 
