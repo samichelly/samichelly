@@ -62,7 +62,8 @@ I am also deeply interested in Data Science and currently pursuing further train
   - Easy-to-navigate user interface.
 
 ## 💼 Professional Skills
-- **Programming Languages**: Python, JavaScript
+- **Programming Languages**: Python, JavaScript, ![image](https://github.com/samichelly/samichelly/assets/124409876/377f9ecd-f8b7-404a-8385-ce4c286dccd7)
+
 - **Web Development**: Django, Flask, HTML, CSS
 - **Database Management**: PostgreSQL, SQLite
 - **Tools**: Git, GitHub, Virtualenv, Sentry, Postman
