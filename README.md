@@ -62,7 +62,6 @@ I am also deeply interested in Data Science and currently pursuing further train
   - Easy-to-navigate user interface.
 
 ## 💼 Professional Skills
-- **Programming Languages**: Python, JavaScript, 
 
 - <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/</a> 
@@ -73,22 +72,18 @@ I am also deeply interested in Data Science and currently pursuing further train
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="posgresql" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a>
-
     <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_circleci_icon_130690.png" alt="circleci" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="45" height="40"/> </a> 
     <a href="https://sentry.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/sentry-logo-36928B74C1-seeklogo.com.png" alt="sentry" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 
-
-
+- **Programming Languages**: Python, JavaScript
 - **Web Development**: Django, Flask, HTML, CSS
 - **Database Management**: PostgreSQL, SQLite
-- **Tools**: Git, GitHub, Virtualenv, Sentry, Postman
-- **Algorithms and Data Structures**: Optimization, Dynamic Programming, Greedy Algorithms
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sami-chelly/)
 - **GitHub**: [Your GitHub Profile](https://github.com/samichelly)
 
 I am always excited to discuss new opportunities and collaborations. Feel free to reach out!
