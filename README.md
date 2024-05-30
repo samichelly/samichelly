@@ -62,7 +62,7 @@ I am also deeply interested in Data Science and currently pursuing further train
   - Easy-to-navigate user interface.
 
 ## 💼 Professional Skills
-- **Programming Languages**: Python, JavaScript, 
+- ### **Programming Languages**: Python, JavaScript, 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a>
     
 - <p align="center">
