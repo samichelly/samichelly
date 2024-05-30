@@ -1,6 +1,7 @@
 # 👋 Welcome to My Professional Portfolio
 
 I am passionate about software development and have experience in creating diverse applications, from web interfaces to complex algorithms. Here are some of the projects I have completed, showcasing my skills and expertise.
+I am also deeply interested in Data Science and currently pursuing further training in this exciting field.
 
 ## 🌟 Projects Overview
 
@@ -72,7 +73,3 @@ I am passionate about software development and have experience in creating diver
 - **GitHub**: [Your GitHub Profile](https://github.com/samichelly)
 
 I am always excited to discuss new opportunities and collaborations. Feel free to reach out!
-
----
-
-This README can serve as a comprehensive introduction to your work and skills for visitors to your LinkedIn profile.
