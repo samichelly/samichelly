@@ -5,17 +5,11 @@
 </h1>
 
 <p align="center">
-    <a href="mailto:mignonln@gmail.com">
+    <a href="mailto:sami.chelly15@gmail.com">
         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="mail"/>
     </a>
-    <a href="https://discordapp.com/users/725712985372229695">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-    </a>
-    <a href="https://linkedin.com/in/hélène-mignon-9353a099">
+    <a href="www.linkedin.com/in/sami-chelly">
         <img src="https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-    </a>
-    <a href="https://github.com/hmignon">
-        <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
     </a>
 </p>
 
