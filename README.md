@@ -1,6 +1,7 @@
 👩‍🎓 Freshly graduated from 
+<a href="mailto:sami.chelly15@gmail.com"></a>
+
 <p align="center">
-    <a href="mailto:sami.chelly15@gmail.com">
 <!--         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="mail"/> -->
     </a>
 <!--     <a href="https://discordapp.com/users/725712985372229695">
@@ -12,7 +13,7 @@
     <a href="https://github.com/hmignon">
         <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
     </a> -->
-</p>
+<!-- </p> -->
 
 👩‍🎓 Freshly graduated from [OpenClassrooms Python developer course](https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python)
 
