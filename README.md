@@ -3,7 +3,8 @@
 I am passionate about software development and have experience in creating diverse applications, from web interfaces to complex algorithms. Here are some of the projects I have completed, showcasing my skills and expertise.
 I am also deeply interested in Data Science and currently pursuing further training in this exciting field.
 
-## 🌟 Projects Overview
+<!---
+## 🌟 Some Projects Overview
 
 ### 1. JustStreamIt (Project 6)
 - **Description**: Development of a user interface to browse a movie catalog.
@@ -60,6 +61,7 @@ I am also deeply interested in Data Science and currently pursuing further train
 - **Highlights**:
   - Comprehensive management of rental listings.
   - Easy-to-navigate user interface.
+-->
 
 ## 💼 Professional Skills
 
