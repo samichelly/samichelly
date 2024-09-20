@@ -1,9 +1,10 @@
 # 👋 Welcome to My Professional Portfolio
 
-I am passionate about software development and have experience in creating diverse applications, from web interfaces to complex algorithms. Here are some of the projects I have completed, showcasing my skills and expertise.
-I am also deeply interested in Data Science and currently pursuing further training in this exciting field.
+I am passionate about data and software development, with experience in creating diverse applications, from web interfaces to complex algorithms.
+This portfolio highlights some of the projects I have completed, showcasing my skills.
+I am also deeply interested in Data Engineering and Data Science, and I am currently pursuing further training in these exciting fields.
 
-<!---
+
 ## 🌟 Some Projects Overview
 
 ### 1. JustStreamIt (Project 6)
@@ -13,7 +14,7 @@ I am also deeply interested in Data Science and currently pursuing further train
 - **Highlights**:
   - User-friendly interface for movie browsing.
   - Integrated API to fetch movie details.
-
+<!---
 ### 2. Investment Portfolio Optimization (Project 7)
 - **Description**: Creation of algorithms to maximize client profits over a two-year investment period.
 - **Technologies**: Python
