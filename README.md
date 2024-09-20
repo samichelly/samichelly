@@ -14,7 +14,7 @@ I am also deeply interested in Data Engineering and Data Science, and I am curre
 - **Highlights**:
   - User-friendly interface for movie browsing.
   - Integrated API to fetch movie details.
-<!---
+
 ### 2. Investment Portfolio Optimization (Project 7)
 - **Description**: Creation of algorithms to maximize client profits over a two-year investment period.
 - **Technologies**: Python
@@ -62,6 +62,7 @@ I am also deeply interested in Data Engineering and Data Science, and I am curre
 - **Highlights**:
   - Comprehensive management of rental listings.
   - Easy-to-navigate user interface.
+<!---
 -->
 
 ## 💼 Professional Skills
