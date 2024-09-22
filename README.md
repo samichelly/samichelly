@@ -36,7 +36,9 @@ I am also deeply interested in Data Engineering and Data Science, and I am curre
 
 ### 1. JustStreamIt (Project 6)
 - **Description**: Development of a user interface to browse a movie catalog.
-- **Technologies**: HTML, CSS, JavaScript
+<!---
+- **Technologies**: Python, Django, SQLite
+-->
 - **Repository**: [JustStreamIt](https://github.com/samichelly/PROJET_6_JustStreamIt)
 - **Highlights**:
   - User-friendly interface for movie browsing.
@@ -44,7 +46,9 @@ I am also deeply interested in Data Engineering and Data Science, and I am curre
 
 ### 2. Investment Portfolio Optimization (Project 7)
 - **Description**: Creation of algorithms to maximize client profits over a two-year investment period.
-- **Technologies**: Python
+<!---
+- **Technologies**: Python, Django, SQLite
+-->
 - **Repository**: [Investment Portfolio Optimization](https://github.com/samichelly/P7__Solve_by_algo)
 - **Highlights**:
   - Developed brute-force and optimized algorithms.
@@ -52,7 +56,9 @@ I am also deeply interested in Data Engineering and Data Science, and I am curre
 
 ### 3. DJANGO - LITReview (Project 9)
 - **Description**: A web application built with Django for managing tickets and reviews.
-- **Technologies**: Python, Django, HTML, CSS
+<!---
+- **Technologies**: Python, Django, SQLite
+-->
 - **Repository**: [LITReview](https://github.com/samichelly/P9__Django_web_app)
 - **Highlights**:
   - User authentication and authorization.
@@ -60,7 +66,9 @@ I am also deeply interested in Data Engineering and Data Science, and I am curre
 
 ### 4. SoftDesk (Project 10)
 - **Description**: RESTful API for tracking technical issues across web, Android, and iOS platforms.
-- **Technologies**: Python, Django REST Framework, PostgreSQL
+<!---
+- **Technologies**: Python, Django, SQLite
+-->
 - **Repository**: [SoftDesk](https://github.com/samichelly/P10__API-Rest_SoftDesk)
 - **Highlights**:
   - Comprehensive API documentation with Postman.
@@ -68,7 +76,9 @@ I am also deeply interested in Data Engineering and Data Science, and I am curre
 
 ### 5. Gudlift Registration (Project 11)
 - **Description**: Proof of concept for a lightweight competition booking platform.
-- **Technologies**: Python, Flask, JSON
+<!---
+- **Technologies**: Python, Django, SQLite
+-->
 - **Repository**: [Gudlift Registration](https://github.com/samichelly/P11__Gudlift_registration)
 - **Highlights**:
   - Flask-based lightweight application.
@@ -76,7 +86,9 @@ I am also deeply interested in Data Engineering and Data Science, and I am curre
 
 ### 6. CRM Epic Events (Project 12)
 - **Description**: Command-line CRM application for managing customers, contracts, and events.
-- **Technologies**: Python, PostgreSQL
+<!---
+- **Technologies**: Python, Django, SQLite
+-->
 - **Repository**: [CRM Epic Events](https://github.com/samichelly/P12__Epic_Events)
 - **Highlights**:
   - User roles and permissions management.
@@ -84,8 +96,11 @@ I am also deeply interested in Data Engineering and Data Science, and I am curre
 
 ### 7. Orange County Lettings (Project 13)
 - **Description**: A web application for managing rental listings and profiles.
+<!---
 - **Technologies**: Python, Django, SQLite
+-->
 - **Repository**: [Orange County Lettings](https://github.com/samichelly/P13__OC_Lettings)
+
 - **Highlights**:
   - Comprehensive management of rental listings.
   - Easy-to-navigate user interface.
