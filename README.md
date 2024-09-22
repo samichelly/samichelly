@@ -4,6 +4,33 @@ I am passionate about data and software development, with experience in creating
 This portfolio highlights some of the projects I have completed, showcasing my skills.
 I am also deeply interested in Data Engineering and Data Science, and I am currently pursuing further training in these exciting fields.
 
+## 💼 Professional Skills
+
+<p align="center">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/</a> 
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+    <a href="https://flask.palletsprojects.com/en/3.0.x/#" target="_blank" rel="noreferrer"> <img src="https://docs.sentry.io/_next/static/media/flask.c9318ff4.svg" alt="flask" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2011/01/html5-logo-1.png" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="posgresql" width="40" height="40"/> </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_circleci_icon_130690.png" alt="circleci" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="45" height="40"/> </a> 
+    <a href="https://sentry.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/sentry-logo-36928B74C1-seeklogo.com.png" alt="sentry" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+
+- **Programming Languages**: Python, JavaScript, C, C++
+- **Web Development**: Django, Flask, HTML, CSS
+- **Database Management**: PostgreSQL, Oracle SQL Developer, MySQL, SQLite, PostGIS, MongoDB, Cassandra, SQLAlchemy
+- **Data Science Tools**: Pandas, NumPy, Scikit-learn, SparkML
+- **Data Visualization**: Matplotlib, Seaborn, Plotly (Dash)
+- **Data Engineering**: PySpark, ETL Processes, Kafka, Airflow, Hadoop, Hive
+- **DevOps & CI/CD**: Docker, CircleCI, Git, GitHub
+- **API, Testing & Development**: RESTful APIs, Postman
+- **Version Control**: Git, GitHub
+
 
 ## 🌟 Some Projects Overview
 
@@ -65,26 +92,6 @@ I am also deeply interested in Data Engineering and Data Science, and I am curre
 <!---
 -->
 
-## 💼 Professional Skills
-
-<p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/</a> 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com/en/3.0.x/#" target="_blank" rel="noreferrer"> <img src="https://docs.sentry.io/_next/static/media/flask.c9318ff4.svg" alt="flask" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2011/01/html5-logo-1.png" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="posgresql" width="40" height="40"/> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_circleci_icon_130690.png" alt="circleci" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="45" height="40"/> </a> 
-    <a href="https://sentry.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/sentry-logo-36928B74C1-seeklogo.com.png" alt="sentry" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
-
-- **Programming Languages**: Python, JavaScript
-- **Web Development**: Django, Flask, HTML, CSS
-- **Database Management**: PostgreSQL, SQLite
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sami-chelly/)
